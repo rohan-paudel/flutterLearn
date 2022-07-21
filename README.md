@@ -1,4 +1,4 @@
-# flutter_catalog
+# Rohan Flutter Learning
 
 A new Flutter project.
 
